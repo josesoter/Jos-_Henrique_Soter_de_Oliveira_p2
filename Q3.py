@@ -23,3 +23,4 @@ def main():
             print('Colisão Detectada')
         elif isCollisionDetected= False:
             print('Colisão não Detectada')
+main()
